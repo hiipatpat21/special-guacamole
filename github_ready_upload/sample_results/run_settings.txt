@@ -1,0 +1,8 @@
+Seed: 20261027
+Generator: Python random.Random(seed + workbook row)
+Profiles: 20
+Trials per profile per scenario: 10000
+Total main trials: 800000
+Input facts: 140
+Inputs: AI-adjusted survey values
+Intervals: normal 95% Monte Carlo intervals, fixed-profile weights, paired differences.

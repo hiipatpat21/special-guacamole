@@ -1,0 +1,141 @@
+﻿fact_id,student,attribute,value,unit,source,provenance
+S01.allowance,S01,allowance,1000.0,PHP/four days,Modified Sample Data!D2,AI-adjusted survey input; not an unchanged verified response
+S01.food,S01,food,150.0,PHP/day,Modified Sample Data!E2,AI-adjusted survey input; not an unchanged verified response
+S01.transport,S01,transport,0.0,PHP/day,Modified Sample Data!F2,AI-adjusted survey input; not an unchanged verified response
+S01.optional,S01,optional,50.0,PHP/day,Modified Sample Data!G2,AI-adjusted survey input; not an unchanged verified response
+S01.supplies,S01,supplies,0.0,PHP/four days,Modified Sample Data!H2,AI-adjusted survey input; not an unchanged verified response
+S01.event_count,S01,event_count,2,events/16 campus days,Modified Sample Data!K2,AI-adjusted survey input; not an unchanged verified response
+S01.event_cost,S01,event_cost,50.0,PHP/event,Modified Sample Data!L2,AI-adjusted survey input; not an unchanged verified response
+S02.allowance,S02,allowance,800.0,PHP/four days,Modified Sample Data!D3,AI-adjusted survey input; not an unchanged verified response
+S02.food,S02,food,0.0,PHP/day,Modified Sample Data!E3,AI-adjusted survey input; not an unchanged verified response
+S02.transport,S02,transport,100.0,PHP/day,Modified Sample Data!F3,AI-adjusted survey input; not an unchanged verified response
+S02.optional,S02,optional,100.0,PHP/day,Modified Sample Data!G3,AI-adjusted survey input; not an unchanged verified response
+S02.supplies,S02,supplies,0.0,PHP/four days,Modified Sample Data!H3,AI-adjusted survey input; not an unchanged verified response
+S02.event_count,S02,event_count,0,events/16 campus days,Modified Sample Data!K3,AI-adjusted survey input; not an unchanged verified response
+S02.event_cost,S02,event_cost,0.0,PHP/event,Modified Sample Data!L3,AI-adjusted survey input; not an unchanged verified response
+S03.allowance,S03,allowance,200.0,PHP/four days,Modified Sample Data!D4,AI-adjusted survey input; not an unchanged verified response
+S03.food,S03,food,50.0,PHP/day,Modified Sample Data!E4,AI-adjusted survey input; not an unchanged verified response
+S03.transport,S03,transport,50.0,PHP/day,Modified Sample Data!F4,AI-adjusted survey input; not an unchanged verified response
+S03.optional,S03,optional,50.0,PHP/day,Modified Sample Data!G4,AI-adjusted survey input; not an unchanged verified response
+S03.supplies,S03,supplies,20.0,PHP/four days,Modified Sample Data!H4,AI-adjusted survey input; not an unchanged verified response
+S03.event_count,S03,event_count,3,events/16 campus days,Modified Sample Data!K4,AI-adjusted survey input; not an unchanged verified response
+S03.event_cost,S03,event_cost,100.0,PHP/event,Modified Sample Data!L4,AI-adjusted survey input; not an unchanged verified response
+S04.allowance,S04,allowance,2000.0,PHP/four days,Modified Sample Data!D5,AI-adjusted survey input; not an unchanged verified response
+S04.food,S04,food,250.0,PHP/day,Modified Sample Data!E5,AI-adjusted survey input; not an unchanged verified response
+S04.transport,S04,transport,80.0,PHP/day,Modified Sample Data!F5,AI-adjusted survey input; not an unchanged verified response
+S04.optional,S04,optional,100.0,PHP/day,Modified Sample Data!G5,AI-adjusted survey input; not an unchanged verified response
+S04.supplies,S04,supplies,0.0,PHP/four days,Modified Sample Data!H5,AI-adjusted survey input; not an unchanged verified response
+S04.event_count,S04,event_count,0,events/16 campus days,Modified Sample Data!K5,AI-adjusted survey input; not an unchanged verified response
+S04.event_cost,S04,event_cost,0.0,PHP/event,Modified Sample Data!L5,AI-adjusted survey input; not an unchanged verified response
+S05.allowance,S05,allowance,500.0,PHP/four days,Modified Sample Data!D6,AI-adjusted survey input; not an unchanged verified response
+S05.food,S05,food,50.0,PHP/day,Modified Sample Data!E6,AI-adjusted survey input; not an unchanged verified response
+S05.transport,S05,transport,50.0,PHP/day,Modified Sample Data!F6,AI-adjusted survey input; not an unchanged verified response
+S05.optional,S05,optional,0.0,PHP/day,Modified Sample Data!G6,AI-adjusted survey input; not an unchanged verified response
+S05.supplies,S05,supplies,0.0,PHP/four days,Modified Sample Data!H6,AI-adjusted survey input; not an unchanged verified response
+S05.event_count,S05,event_count,0,events/16 campus days,Modified Sample Data!K6,AI-adjusted survey input; not an unchanged verified response
+S05.event_cost,S05,event_cost,0.0,PHP/event,Modified Sample Data!L6,AI-adjusted survey input; not an unchanged verified response
+S06.allowance,S06,allowance,600.0,PHP/four days,Modified Sample Data!D7,AI-adjusted survey input; not an unchanged verified response
+S06.food,S06,food,50.0,PHP/day,Modified Sample Data!E7,AI-adjusted survey input; not an unchanged verified response
+S06.transport,S06,transport,50.0,PHP/day,Modified Sample Data!F7,AI-adjusted survey input; not an unchanged verified response
+S06.optional,S06,optional,0.0,PHP/day,Modified Sample Data!G7,AI-adjusted survey input; not an unchanged verified response
+S06.supplies,S06,supplies,0.0,PHP/four days,Modified Sample Data!H7,AI-adjusted survey input; not an unchanged verified response
+S06.event_count,S06,event_count,0,events/16 campus days,Modified Sample Data!K7,AI-adjusted survey input; not an unchanged verified response
+S06.event_cost,S06,event_cost,0.0,PHP/event,Modified Sample Data!L7,AI-adjusted survey input; not an unchanged verified response
+S07.allowance,S07,allowance,900.0,PHP/four days,Modified Sample Data!D8,AI-adjusted survey input; not an unchanged verified response
+S07.food,S07,food,50.0,PHP/day,Modified Sample Data!E8,AI-adjusted survey input; not an unchanged verified response
+S07.transport,S07,transport,110.0,PHP/day,Modified Sample Data!F8,AI-adjusted survey input; not an unchanged verified response
+S07.optional,S07,optional,50.0,PHP/day,Modified Sample Data!G8,AI-adjusted survey input; not an unchanged verified response
+S07.supplies,S07,supplies,50.0,PHP/four days,Modified Sample Data!H8,AI-adjusted survey input; not an unchanged verified response
+S07.event_count,S07,event_count,2,events/16 campus days,Modified Sample Data!K8,AI-adjusted survey input; not an unchanged verified response
+S07.event_cost,S07,event_cost,75.0,PHP/event,Modified Sample Data!L8,AI-adjusted survey input; not an unchanged verified response
+S08.allowance,S08,allowance,500.0,PHP/four days,Modified Sample Data!D9,AI-adjusted survey input; not an unchanged verified response
+S08.food,S08,food,70.0,PHP/day,Modified Sample Data!E9,AI-adjusted survey input; not an unchanged verified response
+S08.transport,S08,transport,50.0,PHP/day,Modified Sample Data!F9,AI-adjusted survey input; not an unchanged verified response
+S08.optional,S08,optional,15.0,PHP/day,Modified Sample Data!G9,AI-adjusted survey input; not an unchanged verified response
+S08.supplies,S08,supplies,20.0,PHP/four days,Modified Sample Data!H9,AI-adjusted survey input; not an unchanged verified response
+S08.event_count,S08,event_count,0,events/16 campus days,Modified Sample Data!K9,AI-adjusted survey input; not an unchanged verified response
+S08.event_cost,S08,event_cost,0.0,PHP/event,Modified Sample Data!L9,AI-adjusted survey input; not an unchanged verified response
+S09.allowance,S09,allowance,1000.0,PHP/four days,Modified Sample Data!D10,AI-adjusted survey input; not an unchanged verified response
+S09.food,S09,food,125.0,PHP/day,Modified Sample Data!E10,AI-adjusted survey input; not an unchanged verified response
+S09.transport,S09,transport,80.0,PHP/day,Modified Sample Data!F10,AI-adjusted survey input; not an unchanged verified response
+S09.optional,S09,optional,50.0,PHP/day,Modified Sample Data!G10,AI-adjusted survey input; not an unchanged verified response
+S09.supplies,S09,supplies,0.0,PHP/four days,Modified Sample Data!H10,AI-adjusted survey input; not an unchanged verified response
+S09.event_count,S09,event_count,1,events/16 campus days,Modified Sample Data!K10,AI-adjusted survey input; not an unchanged verified response
+S09.event_cost,S09,event_cost,250.0,PHP/event,Modified Sample Data!L10,AI-adjusted survey input; not an unchanged verified response
+S10.allowance,S10,allowance,1200.0,PHP/four days,Modified Sample Data!D11,AI-adjusted survey input; not an unchanged verified response
+S10.food,S10,food,20.0,PHP/day,Modified Sample Data!E11,AI-adjusted survey input; not an unchanged verified response
+S10.transport,S10,transport,50.0,PHP/day,Modified Sample Data!F11,AI-adjusted survey input; not an unchanged verified response
+S10.optional,S10,optional,0.0,PHP/day,Modified Sample Data!G11,AI-adjusted survey input; not an unchanged verified response
+S10.supplies,S10,supplies,0.0,PHP/four days,Modified Sample Data!H11,AI-adjusted survey input; not an unchanged verified response
+S10.event_count,S10,event_count,2,events/16 campus days,Modified Sample Data!K11,AI-adjusted survey input; not an unchanged verified response
+S10.event_cost,S10,event_cost,50.0,PHP/event,Modified Sample Data!L11,AI-adjusted survey input; not an unchanged verified response
+S11.allowance,S11,allowance,750.0,PHP/four days,Modified Sample Data!D12,AI-adjusted survey input; not an unchanged verified response
+S11.food,S11,food,20.0,PHP/day,Modified Sample Data!E12,AI-adjusted survey input; not an unchanged verified response
+S11.transport,S11,transport,20.0,PHP/day,Modified Sample Data!F12,AI-adjusted survey input; not an unchanged verified response
+S11.optional,S11,optional,50.0,PHP/day,Modified Sample Data!G12,AI-adjusted survey input; not an unchanged verified response
+S11.supplies,S11,supplies,0.0,PHP/four days,Modified Sample Data!H12,AI-adjusted survey input; not an unchanged verified response
+S11.event_count,S11,event_count,2,events/16 campus days,Modified Sample Data!K12,AI-adjusted survey input; not an unchanged verified response
+S11.event_cost,S11,event_cost,50.0,PHP/event,Modified Sample Data!L12,AI-adjusted survey input; not an unchanged verified response
+S12.allowance,S12,allowance,2000.0,PHP/four days,Modified Sample Data!D13,AI-adjusted survey input; not an unchanged verified response
+S12.food,S12,food,300.0,PHP/day,Modified Sample Data!E13,AI-adjusted survey input; not an unchanged verified response
+S12.transport,S12,transport,0.0,PHP/day,Modified Sample Data!F13,AI-adjusted survey input; not an unchanged verified response
+S12.optional,S12,optional,100.0,PHP/day,Modified Sample Data!G13,AI-adjusted survey input; not an unchanged verified response
+S12.supplies,S12,supplies,0.0,PHP/four days,Modified Sample Data!H13,AI-adjusted survey input; not an unchanged verified response
+S12.event_count,S12,event_count,2,events/16 campus days,Modified Sample Data!K13,AI-adjusted survey input; not an unchanged verified response
+S12.event_cost,S12,event_cost,100.0,PHP/event,Modified Sample Data!L13,AI-adjusted survey input; not an unchanged verified response
+S13.allowance,S13,allowance,1000.0,PHP/four days,Modified Sample Data!D14,AI-adjusted survey input; not an unchanged verified response
+S13.food,S13,food,100.0,PHP/day,Modified Sample Data!E14,AI-adjusted survey input; not an unchanged verified response
+S13.transport,S13,transport,60.0,PHP/day,Modified Sample Data!F14,AI-adjusted survey input; not an unchanged verified response
+S13.optional,S13,optional,50.0,PHP/day,Modified Sample Data!G14,AI-adjusted survey input; not an unchanged verified response
+S13.supplies,S13,supplies,10.0,PHP/four days,Modified Sample Data!H14,AI-adjusted survey input; not an unchanged verified response
+S13.event_count,S13,event_count,1,events/16 campus days,Modified Sample Data!K14,AI-adjusted survey input; not an unchanged verified response
+S13.event_cost,S13,event_cost,10.0,PHP/event,Modified Sample Data!L14,AI-adjusted survey input; not an unchanged verified response
+S14.allowance,S14,allowance,1000.0,PHP/four days,Modified Sample Data!D15,AI-adjusted survey input; not an unchanged verified response
+S14.food,S14,food,100.0,PHP/day,Modified Sample Data!E15,AI-adjusted survey input; not an unchanged verified response
+S14.transport,S14,transport,50.0,PHP/day,Modified Sample Data!F15,AI-adjusted survey input; not an unchanged verified response
+S14.optional,S14,optional,20.0,PHP/day,Modified Sample Data!G15,AI-adjusted survey input; not an unchanged verified response
+S14.supplies,S14,supplies,10.0,PHP/four days,Modified Sample Data!H15,AI-adjusted survey input; not an unchanged verified response
+S14.event_count,S14,event_count,1,events/16 campus days,Modified Sample Data!K15,AI-adjusted survey input; not an unchanged verified response
+S14.event_cost,S14,event_cost,20.0,PHP/event,Modified Sample Data!L15,AI-adjusted survey input; not an unchanged verified response
+S15.allowance,S15,allowance,1000.0,PHP/four days,Modified Sample Data!D16,AI-adjusted survey input; not an unchanged verified response
+S15.food,S15,food,300.0,PHP/day,Modified Sample Data!E16,AI-adjusted survey input; not an unchanged verified response
+S15.transport,S15,transport,100.0,PHP/day,Modified Sample Data!F16,AI-adjusted survey input; not an unchanged verified response
+S15.optional,S15,optional,200.0,PHP/day,Modified Sample Data!G16,AI-adjusted survey input; not an unchanged verified response
+S15.supplies,S15,supplies,0.0,PHP/four days,Modified Sample Data!H16,AI-adjusted survey input; not an unchanged verified response
+S15.event_count,S15,event_count,3,events/16 campus days,Modified Sample Data!K16,AI-adjusted survey input; not an unchanged verified response
+S15.event_cost,S15,event_cost,500.0,PHP/event,Modified Sample Data!L16,AI-adjusted survey input; not an unchanged verified response
+S16.allowance,S16,allowance,1500.0,PHP/four days,Modified Sample Data!D17,AI-adjusted survey input; not an unchanged verified response
+S16.food,S16,food,100.0,PHP/day,Modified Sample Data!E17,AI-adjusted survey input; not an unchanged verified response
+S16.transport,S16,transport,60.0,PHP/day,Modified Sample Data!F17,AI-adjusted survey input; not an unchanged verified response
+S16.optional,S16,optional,50.0,PHP/day,Modified Sample Data!G17,AI-adjusted survey input; not an unchanged verified response
+S16.supplies,S16,supplies,0.0,PHP/four days,Modified Sample Data!H17,AI-adjusted survey input; not an unchanged verified response
+S16.event_count,S16,event_count,0,events/16 campus days,Modified Sample Data!K17,AI-adjusted survey input; not an unchanged verified response
+S16.event_cost,S16,event_cost,0.0,PHP/event,Modified Sample Data!L17,AI-adjusted survey input; not an unchanged verified response
+S17.allowance,S17,allowance,1000.0,PHP/four days,Modified Sample Data!D18,AI-adjusted survey input; not an unchanged verified response
+S17.food,S17,food,100.0,PHP/day,Modified Sample Data!E18,AI-adjusted survey input; not an unchanged verified response
+S17.transport,S17,transport,50.0,PHP/day,Modified Sample Data!F18,AI-adjusted survey input; not an unchanged verified response
+S17.optional,S17,optional,20.0,PHP/day,Modified Sample Data!G18,AI-adjusted survey input; not an unchanged verified response
+S17.supplies,S17,supplies,10.0,PHP/four days,Modified Sample Data!H18,AI-adjusted survey input; not an unchanged verified response
+S17.event_count,S17,event_count,0,events/16 campus days,Modified Sample Data!K18,AI-adjusted survey input; not an unchanged verified response
+S17.event_cost,S17,event_cost,0.0,PHP/event,Modified Sample Data!L18,AI-adjusted survey input; not an unchanged verified response
+S18.allowance,S18,allowance,740.0,PHP/four days,Modified Sample Data!D19,AI-adjusted survey input; not an unchanged verified response
+S18.food,S18,food,60.0,PHP/day,Modified Sample Data!E19,AI-adjusted survey input; not an unchanged verified response
+S18.transport,S18,transport,40.0,PHP/day,Modified Sample Data!F19,AI-adjusted survey input; not an unchanged verified response
+S18.optional,S18,optional,0.0,PHP/day,Modified Sample Data!G19,AI-adjusted survey input; not an unchanged verified response
+S18.supplies,S18,supplies,0.0,PHP/four days,Modified Sample Data!H19,AI-adjusted survey input; not an unchanged verified response
+S18.event_count,S18,event_count,0,events/16 campus days,Modified Sample Data!K19,AI-adjusted survey input; not an unchanged verified response
+S18.event_cost,S18,event_cost,0.0,PHP/event,Modified Sample Data!L19,AI-adjusted survey input; not an unchanged verified response
+S19.allowance,S19,allowance,650.0,PHP/four days,Modified Sample Data!D20,AI-adjusted survey input; not an unchanged verified response
+S19.food,S19,food,100.0,PHP/day,Modified Sample Data!E20,AI-adjusted survey input; not an unchanged verified response
+S19.transport,S19,transport,50.0,PHP/day,Modified Sample Data!F20,AI-adjusted survey input; not an unchanged verified response
+S19.optional,S19,optional,0.0,PHP/day,Modified Sample Data!G20,AI-adjusted survey input; not an unchanged verified response
+S19.supplies,S19,supplies,0.0,PHP/four days,Modified Sample Data!H20,AI-adjusted survey input; not an unchanged verified response
+S19.event_count,S19,event_count,0,events/16 campus days,Modified Sample Data!K20,AI-adjusted survey input; not an unchanged verified response
+S19.event_cost,S19,event_cost,0.0,PHP/event,Modified Sample Data!L20,AI-adjusted survey input; not an unchanged verified response
+S20.allowance,S20,allowance,750.0,PHP/four days,Modified Sample Data!D21,AI-adjusted survey input; not an unchanged verified response
+S20.food,S20,food,75.0,PHP/day,Modified Sample Data!E21,AI-adjusted survey input; not an unchanged verified response
+S20.transport,S20,transport,50.0,PHP/day,Modified Sample Data!F21,AI-adjusted survey input; not an unchanged verified response
+S20.optional,S20,optional,0.0,PHP/day,Modified Sample Data!G21,AI-adjusted survey input; not an unchanged verified response
+S20.supplies,S20,supplies,20.0,PHP/four days,Modified Sample Data!H21,AI-adjusted survey input; not an unchanged verified response
+S20.event_count,S20,event_count,0,events/16 campus days,Modified Sample Data!K21,AI-adjusted survey input; not an unchanged verified response
+S20.event_cost,S20,event_cost,0.0,PHP/event,Modified Sample Data!L21,AI-adjusted survey input; not an unchanged verified response
